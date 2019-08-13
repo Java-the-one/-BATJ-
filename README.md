@@ -8,6 +8,7 @@
 为什么某些人会一直比你优秀，是因为他本身就很优秀还一直在持续努力变得更优秀，而你是不是还在满足于现状内心在窃喜！希望读到这的您能点个小星星，以后还会更新技术干货，谢谢您的支持！
 
 ### 资料领取方式：加入三千人交流群  860113481，即可免费领取
+![如图](https://github.com/2212926013/-BATJ-/blob/master/image/Java%E7%88%AC%E5%9D%91%E4%B9%8B%E8%B7%AF%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/%E6%9E%B6%E6%9E%84%E9%9D%A2%E8%AF%95%E4%B8%93%E9%A2%98%E5%8F%8A%E6%9E%B6%E6%9E%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%AF%BC%E5%9B%BE.png)
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/%E8%B5%84%E6%96%99.jpg)
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/%E8%B5%84%E6%96%992.png)
@@ -18,3 +19,4 @@
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/%E8%B5%84%E6%96%994.jpg)
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/资料目录.png)
 ![如图](https://github.com/2212926013/-BATJ-/blob/master/image/资料目录1.png)
+![如图](https://github.com/2212926013/-BATJ-/blob/master/image/Java%E6%9E%B6%E6%9E%84%E4%BD%93%E7%B3%BB.jpg)
